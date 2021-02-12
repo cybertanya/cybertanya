@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there Coder 👋
+ 
+l am Cyber. Thanks for dropping by! l'm a Web App and Mobile App Developer that specilizes in building apps for startups and individuals. l founded Coursehub E Learning Platform.l also have some experience in Ethical Hacking but ummm l don't think its my field or l just suck at it.. l believe that real skills cannot be taught at an university. You can find me at at events like ForLoop Zimbabwe, Hacktoberfest (maybe at Codemate soon😏).
 <!--
 **cybertanya/cybertanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
