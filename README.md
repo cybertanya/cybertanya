@@ -5,7 +5,7 @@ l am Cyber the widget explorer. Thanks for dropping by! l'm a Web App and Mobile
 
 👨‍💻 l'm currently working at [Kimtronix Global](https://www.kimtronix.com/)
 
-- 🔭 I’m currently Flutter to make awesome mobile and web Apps
+- 🔭 I’m currently learning Flutter to make awesome mobile and web Apps
 - 👯 I’m looking to collaborate on some cool projects, especially if they are into E Learning e.t.c.
 - ❤️ In love with PHP, but cheating with Flutter
 - 🤔 I’m looking for help with Ethical Hacking
