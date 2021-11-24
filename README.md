@@ -13,4 +13,6 @@ l am Cyber the widget explorer. Thanks for dropping by! l'm a Web App and Mobile
 - 📫 How to reach me: [Twitter](https://twitter.com/tanyathecoder) or [WhatsApp](https://api.whatsapp.com/send?phone=263776504919)
 - ⚡ Fun fact: Fan of The Flash, Sillicon Valley & Cloudy with a chance of Meatballs
 
-<script src="https://tryhackme.com/badge/759738"></script>
+extra_javascript:
+https://tryhackme.com/badge/759738
+<script src=""></script>
