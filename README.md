@@ -1,4 +1,6 @@
 ### Hi there Coder 👋
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/cybertanya.png" alt="TryHackMe">
  
 l am Cyber the widget explorer. Thanks for dropping by! l'm a Web App and Mobile App Developer that specilizes in building apps for startups and individuals. l founded [Coursehub E Learning Platform](https://coursehub.co.zw).l also have some experience in Ethical Hacking but ummm l don't think its my field or l just suck at it. l believe that real skills cannot be taught at an university. You can find me at at events like ForLoop Zimbabwe, Hacktoberfest (maybe at Codemate soon😏).
 
@@ -13,4 +15,4 @@ l am Cyber the widget explorer. Thanks for dropping by! l'm a Web App and Mobile
 - 📫 How to reach me: [Twitter](https://twitter.com/tanyathecoder) or [WhatsApp](https://api.whatsapp.com/send?phone=263776504919)
 - ⚡ Fun fact: Fan of The Flash, Sillicon Valley & Cloudy with a chance of Meatballs
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/cybertanya.png" alt="TryHackMe">
+
